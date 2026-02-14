@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "app.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -48,8 +48,8 @@
       }
     ],
     "imageResize": true,
-    "favicon": false,
-    "mbrsiteDomain": "lygnnkyumr",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128_1.png",
+    "mbrsiteDomain": "8ihbmsvtyv",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -62,7 +62,7 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "index.html": {
+    "app.html": {
       "settings": {
         "main": true,
         "title": "Home",
